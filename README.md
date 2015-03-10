@@ -1,7 +1,9 @@
 # Library-MyAccount
 PHP classes used for extraction of user and transaction data from OCLC's Illiad and ExLibris Voyager
 
-The code has not been uploaded yet, but expect it within a few weeks.
+The voyager code has not been uploaded yet, but expect it within a few weeks.
+
+The Illiad class has just been uploaded.
 
 This code stems from our efforts at UTSA to combine our Interlibrary loan system's user account page (OCLC Illiad) with our ILS (ExLibris Voyager) account page into a single, unified home page, containing all user account data.  There are two classes, one for Illiad and one for Voyager.  Both classes extract data on user information and transactions, Illiad via JSON, Voyager via XML via the Restful interface.  
 
